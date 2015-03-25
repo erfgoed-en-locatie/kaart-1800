@@ -1,0 +1,746 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "brabander vanden busch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.30417,
+                    51.69917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allekemaar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.748611,
+                    52.631667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allemeloo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6625,
+                    52.356667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Almere"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.21412849426,
+                    52.3702542434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alphen aan den Rijn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.65545654297,
+                    52.1291676672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "colenberch,amersfoert"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3875,
+                    52.155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amstelreuven"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.863889,
+                    52.300833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amstelredamme"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.88968849182,
+                    52.3740272046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Appeldooren"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.969444,
+                    52.21
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aernhems"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.911111,
+                    51.98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asse in Vriesland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5625,
+                    52.996667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berergen op den Soom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.291667,
+                    51.495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bredaal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.77596282959,
+                    51.586563147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capellen aan den Eijsel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.577778,
+                    51.929167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Delft tot Den Haag"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.355556,
+                    52.006667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "den haag in holland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.29861,
+                    52.07667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Helder, Den"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7593331337,
+                    52.959884571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deveventer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.163889,
+                    52.255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "deutichem,doetinchem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.288889,
+                    51.965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "dorth/dorte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.673611,
+                    51.81
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ee op de Veluwe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.658333,
+                    52.033333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eyndhoven vuyt brabant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.477778,
+                    51.440833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Emme in Drenthe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.906944,
+                    52.779167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enschede"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.895833,
+                    52.218333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gauwe in holland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.708333,
+                    52.016667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "groningen in groningerland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.566667,
+                    53.219167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haarrelem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.63683128357,
+                    52.3808386794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "heerlen in land van valkenburg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.98154067993,
+                    50.8836510413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "van groten acker van helmond"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.661111,
+                    51.481667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hengelhoe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.793056,
+                    52.265833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hilleversum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176389,
+                    52.223333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Egtens Hoogeveen in het Graafschap Drenthen, 't"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.476389,
+                    52.7225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Katwijk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.870833,
+                    51.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vlie onder Leeuwarden, 't"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.808588,
+                    53.20139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "barrevelt van leyden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.493056,
+                    52.158333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Leidschendam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.394444,
+                    52.088333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vorenborch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359722,
+                    52.074167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trajectum ad Mosam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.688889,
+                    50.848333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "middelburg in zeeland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.616667,
+                    51.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nieuwegein"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.080556,
+                    52.029167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nijmegen in gelderland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.852778,
+                    51.8425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "osch by 's hertogenbos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.533333,
+                    51.766667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Purmereijnde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.959722,
+                    52.505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roermonde in Braband"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9875,
+                    51.194167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "roosendael"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.465278,
+                    51.530833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rotterdamme"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479167,
+                    51.9225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vander schie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.388889,
+                    51.919167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spickenisze"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.329167,
+                    51.845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuese in Vlaenderen, Ter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827778,
+                    51.335833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tielburgh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.09130477905,
+                    51.5555148833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vuytrechtes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.122222,
+                    52.090833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "venendael an de stichtse zijde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.55891036987,
+                    52.0286272466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "venlo,dordrecht"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.168056,
+                    51.37
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vlaardinghen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.341667,
+                    51.9125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seijst"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.233333,
+                    52.09
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zoetermeer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.493056,
+                    52.0575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zwolle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.083333,
+                    52.5
+                ]
+            }
+        }
+    ]
+}
